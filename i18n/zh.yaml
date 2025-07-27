@@ -1,0 +1,154 @@
+- id: ui_read_more
+  translation: 阅读更多
+
+- id: ui_search
+  translation: 搜索
+
+- id: ui_last_modified
+  translation: 最后修改时间
+
+- id: ui_contribute
+  translation: 贡献
+
+- id: ui_github_repo
+  translation: GitHub 仓库
+
+- id: ui_github_project
+  translation: 项目主页
+
+- id: ui_suggest_edit
+  translation: 建议编辑本页
+
+- id: ui_feedback
+  translation: 反馈
+
+- id: ui_yes
+  translation: 是
+
+- id: ui_no
+  translation: 否
+
+- id: ui_community
+  translation: 社区
+
+- id: ui_docs
+  translation: 文档
+
+- id: ui_blog
+  translation: 博客
+
+- id: ui_about
+  translation: 关于
+
+- id: ui_view_all
+  translation: 查看全部
+
+- id: ui_updated
+  translation: 更新时间
+
+- id: ui_breadcrumb_home
+  translation: 首页
+
+- id: ui_breadcrumb_docs
+  translation: 文档
+
+- id: ui_breadcrumb_blog
+  translation: 博客
+
+- id: ui_archive
+  translation: 归档
+
+- id: ui_by
+  translation: 作者
+
+- id: ui_on
+  translation: 于
+
+- id: ui_tags
+  translation: 标签
+
+- id: ui_categories
+  translation: 分类
+
+- id: ui_published
+  translation: 发布时间
+
+- id: ui_table_of_contents
+  translation: 内容目录
+
+- id: post_view_this
+  translation: 查看此页面
+
+- id: post_edit_this
+  translation: 编辑此页面
+
+- id: post_create_child_page
+  translation: 创建子页面
+
+- id: post_create_issue
+  translation: 提交问题反馈
+
+- id: post_create_project_issue
+  translation: 为此项目创建 Issue
+
+- id: print_entire_section
+  translation: 打印整个章节
+
+- id: footer_privacy_policy
+  translation: 隐私政策
+
+- id: feedback_title
+  translation: 反馈
+
+- id: feedback_question
+  translation: 这个页面对你有帮助吗？
+
+- id: feedback_positive
+  translation: 是的，内容很有帮助 👍
+
+- id: feedback_negative
+  translation: 没有，内容需要改进 👎
+
+- id: post_less_than_a_minute_read
+  translation: 少于 1 分钟阅读
+
+- id: post_minute_read
+  translation: 分钟阅读
+
+- id: post_minutes_read
+  translation: 分钟阅读
+
+- id: ui_in
+  translation: "于"
+
+- id: post_reading_time
+  translation: 分钟阅读
+
+- id: post_minutes
+  translation: 分钟
+
+- id: ui_pager_prev
+  translation: "上一页"
+
+- id: ui_pager_next
+  translation: "下一页"
+
+- id: footer_all_rights_reserved
+  translation: "保留所有权利"
+
+- id: ui_all
+  translation: "全部"
+
+- id: print_printable_section
+  translation: "打印整个章节"
+
+- id: print_click_to_print
+  translation: "点击打印"
+
+- id: print_show_regular
+  translation: "返回正常视图"
+
+- id: post_posts_in
+  translation: "撰写于"
+
+
