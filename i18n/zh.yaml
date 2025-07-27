@@ -151,4 +151,6 @@
 - id: post_posts_in
   translation: "撰写于"
 
+- id: post_last_mod
+  translation: "最后修改时间"
 
