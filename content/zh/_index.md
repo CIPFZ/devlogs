@@ -1,46 +1,45 @@
 ---
-title: DevLogs 开发日志
+title: DevLogs · AI 与博客分享
 ---
 
-{{< blocks/cover title="欢迎来到 DevLogs！" image_anchor="top" height="full" >}}
+{{< blocks/cover title="欢迎来到 DevLogs AI 分享站" image_anchor="top" height="full" >}}
 
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/CIPFZ/devlogs">
-  查看 GitHub <i class="fab fa-github ms-2"></i>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="/blog/ai-weekly/">
+  AI 周报 <i class="fas fa-robot ms-2"></i>
+</a>
+
+<a class="btn btn-lg btn-outline-light me-3 mb-4" href="/blog/">
+  博客专区 <i class="fas fa-pen-nib ms-2"></i>
 </a>
 
 <p class="lead mt-5">
-  本站记录了我的开发日志、技术学习笔记，以及对开源项目的源码分析与思考。
+  这里是一个聚焦 AI 资讯分享与技术博客创作的平台：既有自动更新的 AI 周报，也有深度博客文章。
 </p>
 
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
-
 {{% blocks/lead color="primary" %}}
-**DevLogs** 是一个面向开发者的知识记录平台，主要内容包括：
+**DevLogs** 现在聚焦两大内容主线：
 
- 📝 每日开发日志，记录工作与灵感  
- 📚 学习笔记，覆盖编程、算法、源码解析等  
- 🔍 对开源项目源码的深度剖析  
- 💡 技术博客与工具使用技巧  
+🤖 **AI 分享**：每周自动采集全球 AI 动态，生成「AI 快讯周报」并发布。  
+📝 **博客分享**：持续输出开发实践、技术思考、工具教程与项目复盘。  
 
-欢迎感兴趣的朋友阅读、交流，也欢迎提交改进建议！
+你可以把这里当作一个「每周看 AI + 平时看博客」的一站式技术信息站点。
 {{% /blocks/lead %}}
-
 
 {{% blocks/section color="dark" type="row" %}}
 
-{{% blocks/feature icon="fas fa-code" title="开发日志" url="/blog/" %}}
-记录日常开发中的问题、解决方案与技术思考。
+{{% blocks/feature icon="fas fa-newspaper" title="AI 快讯周报" url="/blog/ai-weekly/" %}}
+每周自动更新 AI 行业新闻、模型发布、产品动态与研究热点。
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-book" title="学习笔记" url="/docs/" %}}
-涵盖语言特性、框架使用、源码学习等技术文档。
+{{% blocks/feature icon="fas fa-blog" title="博客分享" url="/blog/" %}}
+分享开发日志、实战教程、架构思考与高质量技术文章。
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-github" title="GitHub 源码库" url="https://github.com/CIPFZ/devlogs" %}}
-项目源码完全开源，欢迎提交 Issue 或 PR。
+{{% blocks/feature icon="fab fa-github" title="开源与协作" url="https://github.com/CIPFZ/devlogs" %}}
+站点流程开源可见，欢迎提交 Issue/PR 一起共建内容体系。
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
-
