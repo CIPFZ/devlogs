@@ -48,6 +48,18 @@ If you want to do SCSS edits and want to publish these, you need to install `Pos
 npm install
 ```
 
+
+## AI 分享与博客分享能力
+
+项目已改造为「AI 分享 + 博客分享」模式：
+
+- 首页与博客频道聚焦 AI 快讯周报与技术博客双主线。
+- 新增 `content/zh/blog/ai-weekly/` 专栏用于发布 AI 周报。
+- 新增自动化脚本 `scripts/generate_ai_weekly.py`，可从多个公开 RSS 源采集 AI 新闻并生成周报 Markdown。
+- 新增 GitHub Actions 工作流 `.github/workflows/ai-weekly.yml`，每周一自动执行采集、提交并发布。
+
+你也可以手动触发工作流（`workflow_dispatch`）即时发布一篇新的 AI 周报。
+
 ## Running the website locally
 
 Building and running the site locally requires a recent `extended` version of [Hugo](https://gohugo.io).
